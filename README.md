@@ -18,4 +18,6 @@ Sales report is a pipe-delimited file with each line indicating the number of sa
 
 **Unit Tests**
 
-Unit tests have been provided to demonstrate the correct functionality of the code.stone
+Unit tests have been provided to demonstrate the correct functionality of the code.
+
+The vending machine program was built as a capstone project with Allan Treat during a 14 week coding bootcamp at Tech Elevator.
