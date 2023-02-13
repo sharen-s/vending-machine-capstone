@@ -3,7 +3,7 @@
 
 This application allows customers to purchase beverages, candy, chips, and gum from the comfort of their own computer. The vending machine is restocked from an input file each time the application runs and provides a main menu with options to display vending machine items, purchase items, and exit the application.
 
-Application Requirements
+**Application Requirements**
 
 Main menu with options to display vending machine items, purchase items, and exit the application.
 Vending machine items with a name and price.
