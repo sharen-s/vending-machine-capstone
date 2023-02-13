@@ -16,5 +16,6 @@ Option to write a sales report showing the total sales since the machine was sta
 Input file stocks the vending machine products in a pipe-delimited format with the following columns: Slot Location, Product Name, Price, and Type.
 Sales report is a pipe-delimited file with each line indicating the number of sales for a specific product and the total sales amount at the end of the report.
 
-Unit Tests
+**Unit Tests**
+
 Unit tests have been provided to demonstrate the correct functionality of the code.stone
