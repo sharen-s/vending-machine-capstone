@@ -1,4 +1,4 @@
-# vending-machine-cap
+# Vending Machine Capstone
 
 
 This application allows customers to purchase beverages, candy, chips, and gum from the comfort of their own computer. The vending machine is restocked from an input file each time the application runs and provides a main menu with options to display vending machine items, purchase items, and exit the application.
@@ -17,5 +17,4 @@ Input file stocks the vending machine products in a pipe-delimited format with t
 Sales report is a pipe-delimited file with each line indicating the number of sales for a specific product and the total sales amount at the end of the report.
 
 Unit Tests
-Unit tests have been provided to demonstrate the correct functionality of the code.stone [hello](https://github.com/sharentorres/vending-machine-capstone/new/master?readme=1)
-
+Unit tests have been provided to demonstrate the correct functionality of the code.stone
